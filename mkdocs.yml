@@ -1,8 +1,13 @@
-site_name: obsidian-mkdocs template
+site_name: Apollo
 
 theme:
     name: 'material'
     palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -21,6 +26,16 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+    language: en
+    features:
+      - navigation.instant
+      - navigation.instant.prefetch
+      - navigation.instant.progress
+      - navigation.tabs
+      - navigation.sections
+      - navigation.expand
+      - navigation.path
+      - toc.integrate
 
 # Extensions
 markdown_extensions:
@@ -50,7 +65,8 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks 
+  - roamlinks
+
 
 
 extra_javascript:
