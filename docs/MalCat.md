@@ -39,8 +39,8 @@ Quick and Efficient Binary Analysis Software
 - 43 Yara rules matched by the sample
 - Cape Sandbox results [here](https://www.capesandbox.com/analysis/433330/)
 
-![[_attachments/cstrike-overview.png]]
+![cstrike-overview](_attachments/cstrike-overview.png)
 
 ## Yara Results
 
-![[_attachments/cstrike-yara.png]]
+![cstrike-yara](_attachments/cstrike-yara.png)
