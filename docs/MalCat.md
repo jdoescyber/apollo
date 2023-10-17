@@ -33,7 +33,7 @@ Quick and Efficient Binary Analysis Software
     - "Does this Defender detection have any merit or is it another FP?"
 - Limited (or no) OPSEC concerns compared to public services
 
-## Example: CobaltStrike 
+## Example: CobaltStrike
 
 - Sample available on [Malware Bazaar](https://bazaar.abuse.ch/sample/a92a6d6f59fd04e04c6f911e39219c61eb6013e6db92905796642092dc1ce3d7/)
 - 43 Yara rules matched by the sample
