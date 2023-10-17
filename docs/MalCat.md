@@ -20,7 +20,7 @@ Quick and Efficient Binary Analysis Software
 
 ## Features
 
-![[_attachments/features.png]]
+![](https://i.imgur.com/TGztVGI.png)
 
 - Most core features available for free in the "lite" edition
 - Left to right: "Lite," "MalCat," "MalCat Pro"
@@ -39,8 +39,8 @@ Quick and Efficient Binary Analysis Software
 - 43 Yara rules matched by the sample
 - Cape Sandbox results [here](https://www.capesandbox.com/analysis/433330/)
 
-![cstrike-overview](_attachments/cstrike-overview.png)
+![cstrike-overview](https://i.imgur.com/sIedHda.png)
 
 ## Yara Results
 
-![cstrike-yara](_attachments/cstrike-yara.png)
+![cstrike-yara](https://i.imgur.com/nSXfhry.png)
