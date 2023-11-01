@@ -19,8 +19,11 @@ Lowering the amount of applications starting at system boot (or logon) will impr
 	1. Your audio drivers/audio services (e.g. `Waves MaxxAudio Service` in the below screenshot)
 7. Restart your PC and check that everything is working as expected.
 
-![](https://i.imgur.com/U1TlvK8.png)
+<figure markdown>
 
+	![Startup Items](https://i.imgur.com/U1TlvK8.png)
+	<figcaption> Navigate to the "Startup" Tab and Sort </figcaption>
+</figure>
 ## System "Sweeping"
 
 This section will accomplish what was originally 5+ sections of this guide. We'll be using a free ([and open source](https://github.com/bleachbit/bleachbit)) application to delete junk and temporary files from the file system.
@@ -29,12 +32,13 @@ Navigate to [Bleachbit's Website](https://www.bleachbit.org/download/windows) an
 
 Clicking an option on the left will provide you with a brief description on the right.
 
+!!! note
 
-> [!note]
-> The listed applications on the left-side pane will vary by person to person. Bleachbit supports many applications, but only displays them in the list if you have a given program installed. For example, you may **not** have Firefox installed, so you **wouldn't** see Firefox listed.  Likewise, you may have applications listed that I don't have.
+	The listed applications on the left-side pane will vary by person to person. Bleachbit supports many applications, but only displays them in the list if you have a given program installed. For example, you may **not** have Firefox installed, so you **wouldn't** see Firefox listed.  Likewise, you may have applications listed that I don't have.
 
->[!warning]
->Any selection that includes "cookies" is likely to log you out of that application. That's normal and expected. Refreshing cookies (used for authentication, among other things) on occasion isn't harmful by any stretch.
+!!! warning
+
+	Any selection that includes "cookies" is likely to log you out of that application. That's normal and expected. Refreshing cookies (used for authentication, among other things) on occasion isn't harmful by any stretch.
 
  Below are some that I would recommend everyone clean, along with some more specifics for applications I have.
 
